@@ -1,4 +1,4 @@
-{"version":1,"updated":1794201952062,"deleted":{},
+{"version":1,"updated":1794201981090,"deleted":{},
 "items":[
 {"id":"3","nombre":"2 cool 4 skool","artista":"BTS","era":"School Trilogy","precio":0,"categoria":"Album","formato":"CD","edicion":"Regular","origen":"Corea","fecha":"2013-06-12","imagen":"https://static.wixstatic.com/media/bed87d_d739ba68491545bc8732bbbc56aa3a7b~mv2.jpeg/v1/fill/w_560,h_560,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/bed87d_d739ba68491545bc8732bbbc56aa3a7b~mv2.jpeg","estado":"Lo tengo","deseos":false,"mod":0},
 {"id":"4","nombre":"O!RUL8,2?","artista":"BTS","era":"School Trilogy","precio":0,"categoria":"Album","formato":"CD","edicion":"Regular","origen":"Corea","fecha":"2013-09-11","imagen":"https://m.media-amazon.com/images/I/51GhDMep6gL._UF1000,1000_QL80_.jpg","estado":"Lo tengo","deseos":false,"mod":0},
@@ -388,5 +388,6 @@
 {"id":"388","nombre":"D'FESTA THE MOVIE","artista":"BTS","era":"D'FESTA","precio":0,"categoria":"Video/Documental","formato":"BLU-RAY","edicion":"Regular","origen":"Corea","fecha":"2023-03-03","imagen":"https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0108/users/aafe415960dd444d3c749addda1ec6899c6862f7/i-img1200x1200-1755313192488h4r4kw.jpg","estado":"Lo tengo","deseos":false,"mod":0},
 {"id":"nmw7xi02enmgi","nombre":"BTS WORLD TOUR ARIRANG IN LONDON","artista":"BTS","era":"ARIRANG","precio":0,"categoria":"LIVE SHOW","formato":"DVD","edicion":"Standard","origen":"Corea","fecha":"2026-11-10","imagen":"","estado":"No lo tengo","deseos":false,"mod":1794201949528},
 {"id":"nmw8gqr9ed4gt","nombre":"BTS WORLD TOUR ARIRANG IN NEW JERSEY","artista":"BTS","era":"ARIRANG","precio":0,"categoria":"LIVE SHOW","formato":"DVD","edicion":"","origen":"Corea","fecha":"2027-04-01","imagen":"","estado":"No lo tengo","deseos":false,"mod":1794180530549},
-{"id":"nmw8gs1j4xl7g","nombre":"BTS WORLD TOUR ARIRANG IN ...","artista":"BTS","era":"ARIRANG","precio":0,"categoria":"LIVE SHOW","formato":"DVD","edicion":"","origen":"Corea","fecha":"2027-04-01","imagen":"","estado":"No lo tengo","deseos":false,"mod":1794180556480}
+{"id":"nmw8gs1j4xl7g","nombre":"BTS WORLD TOUR ARIRANG IN ...","artista":"BTS","era":"ARIRANG","precio":0,"categoria":"LIVE SHOW","formato":"DVD","edicion":"","origen":"Corea","fecha":"2027-04-01","imagen":"","estado":"No lo tengo","deseos":false,"mod":1794180556480},
+{"id":"nmw8tj6wcxvkd","nombre":"BTS WORLD TOUR ARIRANG IN LONDON","artista":"BTS","era":"ARIRANG","precio":0,"categoria":"LIVE SHOW","formato":"DVD","edicion":"RM","origen":"Corea","fecha":"2026-11-10","imagen":"","estado":"No lo tengo","deseos":false,"mod":1794201978540}
 ]}
